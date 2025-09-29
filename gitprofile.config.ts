@@ -75,10 +75,17 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'SEA Sistemi',
-      position: 'Software Developer',
-      from: 'July 2023',
+      company: 'Softwave',
+      position: 'Android Developer',
+      from: 'May 2025',
       to: 'Present',
+      companyLink: '',
+    },
+    {
+      company: 'SEA Sistemi',
+      position: 'Android Developer',
+      from: 'July 2023',
+      to: 'May 2025',
       companyLink: '',
     },
   ],
